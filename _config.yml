@@ -22,13 +22,13 @@ about_content: | # this will include new lines to allow paragraphs
   Skills: <mark>Python</mark>, <mark>R</mark>, <mark>SAS</mark>, <mark>SQL</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>
 
 # Experience Section
-# experience_title: Experience
+experience_title: Experience
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projects
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
