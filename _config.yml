@@ -34,8 +34,13 @@ educaton_title: Education
 more_title: Professional Certifications
 more_content: | # this will include new lines to allow paragraphs
    - [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/9RAPG5LSHANJ) (deeplearning.ai)
-   - [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/4QMWCBK3GE72) (UCDavis)
-
+   - [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/4QMWCBK3GE72) (University of California, Davis)
+   - [SAS Certified Base Programmer for SAS 9](https://drive.google.com/file/d/1NZ6SBfoA6s20u6ZoV2yWDtZS-IRCZLkm/view?usp=sharing) (SAS Institute)
+   - [SAS Certified Advanced Programmer for SAS 9](https://drive.google.com/file/d/1SKmbsttBl6VK_jvnPDfcPP2qv-8yzl-j/view?usp=sharing) (SAS Institute)
+   - [Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/LZBB5PRD6YMQ) (IBM)
+   - [Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/QMQBKX3E2DBS) (University of Michigan)
+   - [Data Visualization and Communication with Tableau](https://www.coursera.org/account/accomplishments/certificate/GWHTZFF7SNKJ) (Duke University)
+   
 # Footer
 footer_show_references: true
 
