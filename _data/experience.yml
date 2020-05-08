@@ -2,8 +2,20 @@
   company: Sharpest Minds
   link: sharpestminds.com
   job_title: Data Science Fellow
-  dates: Mar 2020 - Present
+  dates: March 2020 - Present
   quote: >
    
   description: | # this will include new lines to allow paragraphs
     Collaborating with a Senior Business Insights Analyst at TD, working towards building a Full Stack Data Science Project.
+
+- layout: left
+  company: NRI Startup India
+  link: nristartupindia.com
+  job_title: Data Analyst
+  dates: May 2018 - – June 2019
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • In charge of data collection, database maintenance and report-building for a major Indian startup accelerator, exploring data and building models to predict the success of its portfolio companies.  
+    • Built a machine learning model to help investors quickly identify promising ventures for investment, improving ROI across all NRI clients by 20% so far.  
+    • Built a news recommendation engine as a project to increase traffic to the NRI website. The engine curated mergers and acquisition announcements and filtered out fake news posts. This ultimately increased traffic to our website by 30%.
