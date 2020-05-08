@@ -15,3 +15,12 @@
     Predicting the quality of a cannabis plant, based on its botanical measurements.
   description: | # this will include new lines to allow paragraphs
     As the plant classification quality is required to be “best” in order to be properly processed for medical use, I used logistic regression to determine the quality of the plants.
+
+- layout: top-middle
+  name: Footballer's Attribute Prediction
+  link: github.com/dhrumilpatel02/fifa-20-analysis
+  github: dhrumilpatel02/fifa-20-analysis
+  quote: >
+    Predicting the attributes a footballer needs in order to excel in a position.
+  description: | # this will include new lines to allow paragraphs
+    I tried to predict what are the attributes that are significant for a footballer to excel in their position, I used various algorithsm to predict and evaluate the metrics.
