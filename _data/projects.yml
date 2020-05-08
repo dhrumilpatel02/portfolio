@@ -6,3 +6,12 @@
     Predicting patient charges using basic health risk metrics.
   description: | # this will include new lines to allow paragraphs
     An insurance company wants to improve its cash flow forecasting by better predicting patient charges using demographic and basic patient health risk metrics at the time of hospitalization.
+
+- layout: top-middle
+  name: Cannabis Quality Prediction
+  link: github.com/dhrumilpatel02/cannabis-quality
+  github: dhrumilpatel02/cannabis-quality
+  quote: >
+    Predicting the quality of a cannabis plant, based on its botanical measurements.
+  description: | # this will include new lines to allow paragraphs
+    As the plant classification quality is required to be “best” in order to be properly processed for medical use, I used logistic regression to determine the quality of the plants.
