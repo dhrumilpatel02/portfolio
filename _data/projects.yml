@@ -1,4 +1,4 @@
-- layout: top-middle
+ived- layout: top-middle
   name: Insurance Bill Prediction
   link: insurance-bill-prediction.herokuapp.com
   github: dhrumilpatel02/insurance-bill-prediction
@@ -32,4 +32,4 @@
   quote: >
     Recommending movies according the user's choices.
   description: | # this will include new lines to allow paragraphs
-    Took input from the user for their favorite movie, and recommended movies similar to it. Used Random Forest for model building.
+    Asked for user's favourite movies, and recommended movies similar to them. I used Random Forest for model building and evaluated the model on it's basis.
