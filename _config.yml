@@ -21,11 +21,11 @@ about_content: | # this will include new lines to allow paragraphs
 
   Skills: <mark>Python</mark>, <mark>R</mark>, <mark>SAS</mark>, <mark>SQL</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>
 
-# Projects Section
-# projects_title: Projects
-
 # Experience Section
 # experience_title: Experience
+
+# Projects Section
+# projects_title: Projects
 
 # Education Section
 # educaton_title: Education
