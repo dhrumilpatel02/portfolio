@@ -3,22 +3,15 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Dhrumil Patel
+title: Data Scientist
+email: dhrumilpatel02@gmail.com
+website: https://dhrumilpatel02.github.io/portfolio/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+github_username: dhrumilpatel02
+twitter_username: dhrumilpatel02
+linkedin_username: dhrumilpatel02
 
 # About Section
 # about_title: About Me
