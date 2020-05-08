@@ -3,6 +3,10 @@
   name: Durham College
   dates: 2019 - 2020
   qualification: Data Analytics for Business Decision Making Graduate Certificate
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
 
 - layout: left
   name: Institution name
