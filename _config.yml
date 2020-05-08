@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Dhrumil Patel
 title: Data Scientist
 email: dhrumilpatel02@gmail.com
-website: https://dhrumilpatel02.github.io/portfolio/
+website: dhrumilpatel02.github.io/portfolio/
 
 # Social links
 github_username: dhrumilpatel02
@@ -19,7 +19,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm an experienced Data Scientist with a background in investment management. I've also worked with startups building machine learning models to help investors invest in the right ventures and building recommendation engines for news reading and posting. I've also briefly worked as a data science and analytics recruiter, recruiting data scientists for US clients.
 
-  I am most skilled in: <mark>Python</mark>, <mark>R</mark>, <mark>SAS</mark>, <mark>SQL</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>
+  Skills: <mark>Python</mark>, <mark>R</mark>, <mark>SAS</mark>, <mark>SQL</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>
 
 # Projects Section
 # projects_title: Projects
