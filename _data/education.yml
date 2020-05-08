@@ -6,10 +6,7 @@
   quote: >
     
   description: | # this will include new lines to allow paragraphs
-    -Statistical Predictive Modeling For Analytics
-    -Data Analytics Tools & Techniques
-    -Business Analysis
-    -Data Visualizations
+    Statistical Predictive Modeling For Analytics, Data Analytics Tools & Techniques, Business Analysis, Data Visualizations
 
 - layout: left
   name: Institution name
