@@ -34,8 +34,8 @@ educaton_title: Education
 # More Section
 more_title: Professional Certifications
 more_content: | # this will include new lines to allow paragraphs
-   - [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/9RAPG5LSHANJ)
-   - [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/4QMWCBK3GE72)
+   - [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/9RAPG5LSHANJ) (deeplearning.ai)
+   - [SQL for Data Science](https://www.coursera.org/account/accomplishments/certificate/4QMWCBK3GE72) (UCDavis)
 
 # Footer
 footer_show_references: true
