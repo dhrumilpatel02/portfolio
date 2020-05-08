@@ -24,3 +24,12 @@
     Predicting the attributes a footballer needs in order to excel in a position.
   description: | # this will include new lines to allow paragraphs
     I tried to predict what are the attributes that are significant for a footballer to excel in their position, I used various algorithsm to predict and evaluate the metrics.
+
+- layout: top-middle
+  name: Movie Recommender System
+  link: github.com/dhrumilpatel02/movie-recommender-system
+  github: dhrumilpatel02/movie-recommender-system
+  quote: >
+    Recommending movies according the user's choices.
+  description: | # this will include new lines to allow paragraphs
+    Took input from the user for their favorite movie, and recommended movies similar to it. Used Random Forest for model building.
