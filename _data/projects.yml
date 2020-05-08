@@ -1,4 +1,4 @@
-ived- layout: top-middle
+- layout: top-middle
   name: Insurance Bill Prediction
   link: insurance-bill-prediction.herokuapp.com
   github: dhrumilpatel02/insurance-bill-prediction
@@ -23,4 +23,13 @@ ived- layout: top-middle
   quote: >
     Predicting the attributes a footballer needs in order to excel in a position.
   description: | # this will include new lines to allow paragraphs
-    I tried to predict what are the attributes that are significant for a footballer to excel in their position, I used various algorithsm to predict and evaluate the metrics.
+    I tried to predict what are the attributes that are significant for a footballer to excel in their position, I used various algorithm to predict and evaluate the metrics.
+
+- layout: top-middle
+  name: Movie Recommender System
+  link: github.com/dhrumilpatel02/movie-recommender-system
+  github: dhrumilpatel02/movie-recommender-system
+  quote: >
+    Recommending movies according the user's choices.
+  description: | # this will include new lines to allow paragraphs
+    Used user's favorite movies as inputs, and recommended movies similar to it. I used Random Forest for model building and evaluated it.
