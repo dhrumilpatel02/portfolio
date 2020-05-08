@@ -1,14 +1,9 @@
+# Education Template
 - layout: left
   name: Durham College
   dates: 2019 - 2020
-  qualification: Graduate Certificate | Data Analytics for Business Decision Making
-  
-- layout: center
-  name: Gujarat University
-  dates: 2013 - 2016
-  qualification: Master of Commerce
-
-- layout: right
-  name: Gujarat University
-  dates: 2010 - 2013
-  qualification: Bachelor of Commerce
+  qualification: Data Analytics for Business Decision Making Graduate Certificate
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
