@@ -1,11 +1,11 @@
 - layout: top-middle
-  name: Insurance Bill Prediction
-  link: insurance-bill-prediction.herokuapp.com
-  github: dhrumilpatel02/insurance-bill-prediction
+  name: Diamond Price Prediction
+  link: diamond-price-prediction.herokuapp.com
+  github: dhrumilpatel02/diamond-price-prediction
   quote: >
-    Predicting patient charges using basic health risk metrics.
+    Predicting diamond prices using basic diamond measurement metrics.
   description: | # this will include new lines to allow paragraphs
-    An insurance company wants to improve its cash flow forecasting by better predicting patient charges using demographic and basic patient health risk metrics at the time of hospitalization.
+    A Web App for a Jewelry company, where their customers can look up for a predicted price for their desired diamond, used a regression model to predict the price and heroku to host the web app.
 
 - layout: top-middle
   name: Cannabis Quality Prediction
