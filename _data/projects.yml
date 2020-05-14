@@ -18,8 +18,8 @@
 
 - layout: top-middle
   name: Footballer's Attribute Prediction
-  link: github.com/dhrumilpatel02/fifa-20-analysis
-  github: dhrumilpatel02/fifa-20-analysis
+  link: github.com/dhrumilpatel02/footballer-attribute-prediction
+  github: dhrumilpatel02/footballer-attribute-prediction
   quote: >
     Predicting the attributes a footballer needs in order to excel in a position.
   description: | # this will include new lines to allow paragraphs
