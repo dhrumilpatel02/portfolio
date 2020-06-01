@@ -1,4 +1,40 @@
 - layout: left
+  company: Learners.ai
+  link: 
+  job_title: Data Scientist
+  dates: May 2020- Present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Developing Data pipelines through Twitter and other APIs to prepare a database for analysis.  
+    • Organizing Data Acquisition from RSS Newsfeeds to evaluate the ongoing market sentiments.  
+    • Building a Sentiment Analysis Web App using NLP techniques to measure the S&P500 Companies' stock prices.
+
+- layout: left
+  company: EdBot
+  link: 
+  job_title: CTO & Co-Founder
+  dates: May 2020- Present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Selected by the EPICenter for the RBC EPIC Founders Program 2020, an intensive Startup Accelerator program.  
+    • Seed Funded as a summer cohort to build a successful business model within the EdTech space.  
+    • Attending workshops, receiving one-on-one mentorships, coaching on design thinking, analytics on market research.
+
+- layout: left
+  company: STEM-Away
+  link: 
+  job_title: Machine Learning Engineer
+  dates: May 2020- Present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Building machine learning models on Topic Suggestion and Tag Clustering techniques.  
+    • Developing recommendation engines using Content-based as well as Collaborative filtering algorithms.  
+    • Co-ordinating with an overseas team of 13 Machine Learning Engineers, using Asana, Discourse, and Google Colab.
+
+- layout: left
   company: Sharpest Minds
   link: 
   job_title: Data Science Fellow
@@ -6,7 +42,9 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Collaborating with a Senior Business Insights Analyst, working towards building a Full Stack Data Science Project.
+    • Building a web application where users can look up a predicted price for the diamond they desire to buy.
+    • Using PyCaret to develop a machine learning pipeline for deployment on Heroku using Flask.
+    • Collaborating with a Senior Business Insights Analyst.
 
 - layout: left
   company: NRI Startup India
@@ -16,30 +54,18 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • In charge of data collection, database maintenance and report-building for a major Indian startup accelerator, exploring data and building models to predict the success of its portfolio companies.  
-    • Built a machine learning model to help investors quickly identify promising ventures for investment, improving ROI across all NRI clients by 20% so far.  
-    • Built a news recommendation engine as a project to increase traffic to the NRI website. The engine curated mergers and acquisition announcements and filtered out fake news posts. This ultimately increased traffic to our website by 30%.
+    • Managed database, built reports with SQL and Tableau, built models predicting success of its portfolio companies.  
+    • Built a recommendation engine helping investors identify promising ventures for investment, improving ROI by 20%.  
+    • Built machine learning models to increase traffic on the news page of the NRI website, the engine curated mergers and acquisition announcements and filtered out fake news posts, ultimately increased traffic to our website by 30%.
 
 - layout: left
   company: Rang Technologies
   link: 
-  job_title: Senior IT Technical Recruiter (Data Science)
+  job_title: Data Scientist
   dates: October 2016 – February 2018
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Recruited data science professionals for US market clients, and personally conducted technical screenings for candidates in SAS, R, Python, and SQL.  
-    • Collaborated with the technical manager in an analysis of the past 5 years of recruitment data to identify trends and seasonality.  
-    • Based on an analysis of our recruitment data, suggested approaches to increasing the per-recruiter placement rate by improving our process for resume sourcing. Ultimately increased placement rate from 4 per recruiter per month, to 6.5-7 per recruiter per month (a 60% increase).
-
-- layout: left
-  company: York Prints Pvt. Ltd.
-  link: 
-  job_title: Financial Assistant
-  dates: August 2015 – March 2016
-  quote: >
-   
-  description: | # this will include new lines to allow paragraphs
-    • Determined optimal pricing for several of York Prints' finished products (cloth materials) based on current market prices of raw materials (fabrics, dyes, etc.) and clients' budgets.  
-    • Calculated the costs of different cloth production methods and selected the optimal method for each client order, based on the client's preferred tradeoff between time, quality, and total cost. Ultimately saved 20% on costs compared to our prior approach.  
-    • Determined the best times and prices at which to purchase capital equipment based on predicted order flow over time, price reductions due to recession, anticipated profitability, and government pollution regulations.  
+    • Built recommendation engine for resumes, reports on technical screenings, for recruited data scientists.  
+    • Collaborated with the manager in an analysis of the recruitment statistics to identify trends and seasonality.  
+    • Based on the analysis performed on the collected data, an increased placement rate of 60% was achieved.
