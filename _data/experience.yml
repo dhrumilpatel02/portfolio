@@ -30,9 +30,9 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Building a web application where users can look up a predicted price for the diamond they desire to buy.
-    • Using PyCaret to develop a machine learning pipeline for deployment on Heroku using Flask.
-    • Collaborating with a Senior Business Insights Analyst.
+    • Building a web application where users can look up a predicted price for the diamond they desire to buy.  
+    • Using PyCaret to develop a machine learning pipeline for deployment on Heroku using Flask.  
+    • Collaborating with a Senior Business Insights Analyst.  
 
 - layout: left
   company: NRI Startup India
