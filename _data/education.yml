@@ -6,7 +6,7 @@
   quote: >
     Majors:
   description: | # this will include new lines to allow paragraphs
-    Statistical Predictive Modeling For Analytics, Data Analytics Tools & Techniques, Business Analysis, Data Visualizations, Ethical Leadership And Critical Decision Making.
+    Statistical Predictive Modeling For Analytics • Data Analytics Tools & Techniques, Business Analysis • Data Visualizations • Ethical Leadership And Critical Decision Making
 
 - layout: left
   name: Gujarat University
@@ -15,7 +15,7 @@
   quote: >
     Majors:
   description: | # this will include new lines to allow paragraphs
-    Financial Management, Financial Economics, Marketing Management, Financial Markets, Investment Management, Operations Research, Risk Management.
+    Financial Management • Financial Economics • Marketing Management • Financial Markets • Investment Management • Operations Research • Risk Management
 
 - layout: left
   name: Gujarat University
@@ -24,4 +24,4 @@
   quote: >
     Majors:
   description: | # this will include new lines to allow paragraphs
-    Advanced Statistics, Business Economics, Corporate Financial Accounting, Business Law, Taxation, Business Organization & Management.
+    Advanced Statistics • Business Economics • Corporate Financial Accounting • Business Law • Taxation • Business Organization & Management
