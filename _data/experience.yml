@@ -11,18 +11,6 @@
     • Building a Sentiment Analysis Web App using NLP techniques to measure the S&P500 Companies' stock prices.
 
 - layout: left
-  company: STEM-Away
-  link: 
-  job_title: Machine Learning Project Lead
-  dates: May 2020- Present
-  quote: >
-   
-  description: | # this will include new lines to allow paragraphs
-    • Managing an overseas team of 15 Machine Learning Engineers to build an end to end NLP Model.  
-    • Building machine learning models on Topic Suggestion and Tag Clustering techniques.  
-    • Developing recommendation engines using Content-based as well as Collaborative filtering algorithms.
-
-- layout: left
   company: Sharpest Minds
   link: 
   job_title: Data Science Fellow
