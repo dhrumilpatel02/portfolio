@@ -1,4 +1,22 @@
 - layout: top-middle
+  name: Chatbot for Education Space
+  link: 
+  github: 
+  quote: >
+    Building a software application used by academic institutions to conduct online chat conversations with aspiring students
+  description: | # this will include new lines to allow paragraphs
+    Seed Funded by RBC for the RBC EPIC Founders Program 2020, a start-up accelerator program.
+ 
+ - layout: top-middle
+  name: Forum Classification and Recommendation Engine
+  link: 
+  github: 
+  quote: >
+    At STEM-Away I voluntarily managed a team of 15, assigning tasks to the program managers and technical leads.
+  description: | # this will include new lines to allow paragraphs
+    Built and developed a classification model using various natural language processing techniques like Google’s BERT technique from a discourse forum.
+ 
+- layout: top-middle
   name: Diamond Price Prediction
   link: diamond-price-prediction.herokuapp.com
   github: dhrumilpatel02/diamond-price-prediction
@@ -24,16 +42,6 @@
     Predicting the attributes a footballer needs in order to excel in a position..
   description: | # this will include new lines to allow paragraphs
     I tried to predict what are the attributes that are significant for a footballer to excel in their position, I used various algorithm to predict and evaluate the metrics.
-
-
-- layout: top-middle
-  name: Chatbot for Education Space
-  link: 
-  github: 
-  quote: >
-    Building a software application used by academic institutions to conduct online chat conversations with aspiring students
-  description: | # this will include new lines to allow paragraphs
-    Seed Funded by RBC & EPICenter for the RBC EPIC Founders Program 2020, a start up accelerator program.
 
 - layout: top-middle
   name: Movie Recommender System
