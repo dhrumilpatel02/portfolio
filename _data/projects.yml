@@ -1,20 +1,11 @@
 - layout: top-middle
-  name: Chatbot for Education Space
-  link: 
-  github: 
-  quote: >
-    Building a software application used by academic institutions to conduct online chat conversations with aspiring students.
-  description: | # this will include new lines to allow paragraphs
-    Seed Funded by RBC for the RBC EPIC Founders Program 2020, a start-up accelerator program.
-
-- layout: top-middle
   name: Forum Classification and Recommendation Engine
   link: 
   github: 
   quote: >
-    At STEM-Away I voluntarily managed a team of 15, assigning tasks to the program managers and technical leads.
+    At STEM-Away I voluntarily managed a team of 15, assigning tasks to the program manager and technical lead, built and developed a classification model using various natural language processing techniques like Google’s BERT technique from a discourse forum.  
   description: | # this will include new lines to allow paragraphs
-    Built and developed a classification model using various natural language processing techniques like Google’s BERT technique from a discourse forum.
+    Scraping Code: https://bit.ly/stem-away-scraping, BERT Code: https://bit.ly/stem-away-classifier-bert
 
 - layout: top-middle
   name: Diamond Price Prediction
