@@ -3,9 +3,9 @@
   link: 
   github: 
   quote: >
-    At STEM-Away I voluntarily managed a team of 15, assigning tasks to the program manager and technical lead, built and developed a classification model using various natural language processing techniques like Google’s BERT technique from a discourse forum.  
-  description: | # this will include new lines to allow paragraphs
     Scraping Code: https://bit.ly/stem-away-scraping, BERT Code: https://bit.ly/stem-away-classifier-bert
+  description: | # this will include new lines to allow paragraphs
+    At STEM-Away I voluntarily managed a team of 15, assigning tasks to the program manager and technical lead, built and developed a classification model using various natural language processing techniques like Google’s BERT technique from a discourse forum.  
 
 - layout: top-middle
   name: Diamond Price Prediction
