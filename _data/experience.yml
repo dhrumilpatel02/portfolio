@@ -10,6 +10,19 @@
     • Organizing Data Acquisition from RSS Newsfeeds to evaluate the ongoing market sentiments.  
     • Building a Sentiment Analysis Web App using NLP techniques to measure the S&P500 Companies' stock prices.
 
+
+- layout: left
+  company: EdSay.ai
+  link: 
+  job_title: CTO
+  dates: Feb 2020- Present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Built a software application to apply artificial intelligence to automate responses to inquiries from international students for educational institutions.  
+    • Selected by the EPICenter (University of Windsor) for the RBC EPIC Founders Program 2020, an intensive Startup Accelerator program, seed-funded by RBC as a summer cohort to build on the idea within the EdTech space.  
+    • Attended exclusive workshops and seminars with distinguished guest speakers, receiving one-on-one mentorships, coaching on design thinking, analytics on efficient market research, and how to build a successful business model.  
+
 - layout: left
   company: Sharpest Minds
   link: 
