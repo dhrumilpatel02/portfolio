@@ -21,19 +21,8 @@
   description: | # this will include new lines to allow paragraphs
     • Built a software application to apply artificial intelligence to automate responses to inquiries from international students for educational institutions.  
     • Selected by the EPICenter (University of Windsor) for the RBC EPIC Founders Program 2020, an intensive Startup Accelerator program, seed-funded by RBC as a summer cohort to build on the idea within the EdTech space.  
-    • Attended exclusive workshops and seminars with distinguished guest speakers, receiving one-on-one mentorships, coaching on design thinking, analytics on efficient market research, and how to build a successful business model.  
+    •  Attended exclusive workshops and seminars with distinguished guest speakers, receiving one-on-one mentorships, coaching on design thinking, analytics on efficient market research, and how to build a successful business model.  
 
-- layout: left
-  company: Sharpest Minds
-  link: 
-  job_title: Data Science Fellow
-  dates: March 2020 - Present
-  quote: >
-   
-  description: | # this will include new lines to allow paragraphs
-    • Building a web application where users can look up a predicted price for the diamond they desire to buy.  
-    • Using PyCaret to develop a machine learning pipeline for deployment on Heroku using Flask.  
-    • Collaborating with a Senior Business Insights Analyst.  
 
 - layout: left
   company: NRI Startup India
