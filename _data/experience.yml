@@ -21,7 +21,7 @@
   description: | # this will include new lines to allow paragraphs
     • Built a software application to apply artificial intelligence to automate responses to inquiries from international students for educational institutions.  
     • Selected by the EPICenter (University of Windsor) for the RBC EPIC Founders Program 2020, an intensive Startup Accelerator program, seed-funded by RBC as a summer cohort to build on the idea within the EdTech space.  
-    •  Attended exclusive workshops and seminars with distinguished guest speakers, receiving one-on-one mentorships, coaching on design thinking, analytics on efficient market research, and how to build a successful business model.  
+    • Attended exclusive workshops and seminars with distinguished guest speakers, receiving one-on-one mentorships, coaching on design thinking, analytics on efficient market research, and how to build a successful business model.  
 
 
 - layout: left
@@ -32,9 +32,9 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Managed database, built reports with SQL and Tableau, built models predicting success of its portfolio companies.  
-    • Built a recommendation engine helping investors identify promising ventures for investment, improving ROI by 20%.  
-    • Built machine learning models to increase traffic on the news page of the NRI website, the engine curated mergers and acquisition announcements and filtered out fake news posts, ultimately increased traffic to our website by 30%.
+    • Collected data and maintained a database using SQL for portfolio companies.  
+    • Generated reports and dashboards using Python, Tableau and PowerBI tracking the Return on Investments.  
+    • Presented findings to the clients and stakeholders narrating a story that solved business problems improving ROI by 20%.
 
 - layout: left
   company: Rang Technologies
@@ -44,6 +44,6 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Built recommendation engine for resumes, reports on technical screenings, for recruited data scientists.  
-    • Collaborated with the manager in an analysis of the recruitment statistics to identify trends and seasonality.  
+    • Built dashboards on the recommendation engine results for resumes, technical screenings, for recruited data scientists.  
+    • Collaborated with the manager in an analysis of the recruitment statistics.  
     • Based on the analysis performed on the collected data, an increased placement rate of 60% was achieved.
