@@ -1,6 +1,6 @@
 # My Portfolio
 
-I'm an experienced Data Scientist with a background in investment management. I've also worked with startups building machine learning models to help investors invest in the right ventures, building recommendation engines for news reading and posting, and predicting sentiments in the financial space. I've also briefly worked in the recruitment industry analyzing the trends in the US recruitment space. I'm currently working part-time as a Data Scientist at Learners.ai, building a sentiment analysis web app pertaining to S&P500 Companies.    
+I'm an experienced Analytics Professional and have worked with startups building analytics dashboards to help investors, and clients invest in the right ventures, building and presenting reports to the stakeholders. I've also briefly worked in the recruitment industry analyzing the trends in the US recruitment space.    
 
 A few things I've built:    
 
