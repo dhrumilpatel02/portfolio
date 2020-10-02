@@ -4,15 +4,13 @@ I'm an experienced Analytics Professional and have worked with startups building
 
 A few things I've built:    
 
-• Cannabis Quality Prediction: Predicting the quality of a cannabis plant, based on its botanical measurements.  
-GitHub: bit.ly/cannabis-quality  
-• Diamond Price Prediction: Predicting diamond prices using basic measurement metrics.  
-GitHub: bit.ly/diamond-price-prediction, Web App: diamond-price-prediction.herokuapp.com  
-• Footballer's Attribute Prediction: Predicting the attributes a footballer needs to excel in a position.  
+• Forum Classification and Recommendation Engine - At STEM-Away I voluntarily managed a team of 15, assigning tasks to the program manager and technical lead, built and developed a classification model using various natural language processing techniques like Google’s BERT technique from a discourse forum.
+• Diamond Price Prediction - Predicting diamond prices using basic measurement metrics.
+GitHub: bit.ly/diamond-price-prediction, Web App: diamond-price-prediction.herokuapp.com
+• Cannabis Quality Prediction - Predicting the quality of a cannabis plant, based on its botanical measurements.
+GitHub: bit.ly/cannabis-quality
+• Footballer's Attribute Prediction - Predicting the attributes a footballer needs to excel in a position.
 GitHub: bit.ly/footballer-attribute-prediction  
-• Chatbot for Education Space: Building a software application used by academic institutions to conduct online chat conversations with aspiring students. (Seed Funded by RBC & EPICenter for the RBC EPIC Founders Program 2020, a start up accelerator program.)  
-• Movie Recommender System: Recommending movies according to the user's choices.  
-GitHub: bit.ly/movie-recommender-system    
 
 
 Data Science Skills:    
@@ -27,8 +25,7 @@ Data Science Skills:
 • Tableau  
 • PowerBI    
 
-Email ID: dhrumilpatel02@gmail.com  
-Twitter: twitter,com/dhrumilpatel02  
-GitHub: github.com/dhrumilpatel02  
-Medium: medium.com/@dhrumilpatel02  
-Website: dhrumilpatel.me   
+
+• Email ID - dhrumilpatel02@gmail.com
+• GitHub - github.com/dhrumilpatel02
+• Website - dhrumilpatel.me  
