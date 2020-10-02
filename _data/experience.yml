@@ -1,18 +1,18 @@
 - layout: left
-  company: ScaleX
+  company: Learners.ai
   link: 
-  job_title: Analytics Consultant
+  job_title: Data Analyst
   dates: Aug 2020 - Present
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Building reports and dashboards using Excel, SQL, Python, Tableau, and Power BI for clients.  
-    • Managing database of 15 clients to build end to end HR analytics solutions.  
-    • Collaborating with the Founder to track, analyze, and study internal database to improve efficiency.
+    • Developed Data pipelines through Twitter and other APIs to prepare a database for analysis.  
+    • Organized Data Acquisition from RSS Newsfeeds to evaluate the ongoing market sentiments.  
+    • Built a Sentiment Analysis Web App using NLP techniques to measure the S&P500 Companies' stock prices.
 
 
 - layout: left
-  company: University of Windsor
+  company: EPICenter UWindsor
   link: 
   job_title: RBC EPIC Founder
   dates: May 2020 - August 2020
