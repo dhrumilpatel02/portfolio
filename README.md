@@ -1,6 +1,6 @@
 # My Portfolio
 
-I'm an experienced Analytics Professional and have worked with startups building analytics dashboards to help investors, and clients invest in the right ventures, building and presenting reports to the stakeholders. I've also briefly worked in the recruitment industry analyzing the trends in the US recruitment space.    
+I'm an experienced Data Science and Analytics Professional and have worked with startups building analytics dashboards to help investors, and clients invest in the right ventures, building and presenting reports to the stakeholders. I've also briefly worked in the recruitment industry analyzing the trends in the US recruitment space. Currently, I am working to improve the overall content quality of the Catalog at Cornershop with Data Science and Analytics tools and techniques.    
 
 A few things I've built:    
 
