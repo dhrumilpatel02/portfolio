@@ -26,6 +26,8 @@ Data Science Skills:
 • PowerBI    
 
 
+Let's see how we can collaborate:    
+
 • Email ID - dhrumilpatel02@gmail.com  
 • GitHub - github.com/dhrumilpatel02  
 • Website - dhrumilpatel.me    
