@@ -2,7 +2,7 @@
 - layout: left
   name: Durham College
   dates: 2019 - 2020
-  qualification: Data Analytics for Business Decision Making Graduate Certificate
+  qualification: Data Analytics for Business Decision Making (Graduate Certificate)
   quote: >
     Majors:
   description: | # this will include new lines to allow paragraphs
@@ -11,7 +11,7 @@
 - layout: left
   name: Gujarat University
   dates: 2013 - 2016
-  qualification: Master of Commerce (Finance)
+  qualification: Master of Commerce
   quote: >
     Majors:
   description: | # this will include new lines to allow paragraphs
@@ -20,7 +20,7 @@
 - layout: left
   name: Gujarat University
   dates: 2010 - 2013
-  qualification: Bachelor of Commerce (Statistics, Accountancy)
+  qualification: Bachelor of Commerce
   quote: >
     Majors:
   description: | # this will include new lines to allow paragraphs
