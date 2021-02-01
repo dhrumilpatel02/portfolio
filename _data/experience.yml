@@ -22,18 +22,6 @@
     • Organized Data Acquisition from RSS Newsfeeds to evaluate the ongoing market sentiments.  
     • Built a Sentiment Analysis Web App using NLP techniques to measure the S&P500 Companies' stock prices.  
 
-- layout: left
-  company: SharpestMinds
-  link: 
-  job_title: Data Science Fellow
-  dates: Mar 2020 - Present
-  quote: >
-   
-  description: | # this will include new lines to allow paragraphs
-    • Built a web application where users can look up a predicted price for the diamond they desire to buy.  
-    • Developed a regression model for a machine learning pipeline for deployment on Heroku using Flask.  
-    • Collaborated with a Senior Business Insights Analyst.  
-
 
 - layout: left
   company: EPICenter UWindsor
