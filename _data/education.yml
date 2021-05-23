@@ -1,7 +1,7 @@
 # Education Template
 - layout: left
   name: Durham College
-  dates: 2019 - 2020
+  dates: September 2019 - April 2020
   qualification: Data Analytics for Business Decision Making (Graduate Certificate)
   quote: >
     Majors:
@@ -10,7 +10,7 @@
 
 - layout: left
   name: Gujarat University
-  dates: 2013 - 2016
+  dates: June 2013 - April 2016
   qualification: Master of Commerce
   quote: >
     Majors:
@@ -19,7 +19,7 @@
 
 - layout: left
   name: Gujarat University
-  dates: 2010 - 2013
+  dates: June 2010 - April 2013
   qualification: Bachelor of Commerce
   quote: >
     Majors:
