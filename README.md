@@ -19,7 +19,6 @@ Data Science Skills:
 • Python Machine Learning/Deep Learning (SciKit-Learn, NLTK, TensorFlow)  
 • Python Data Visualization (Matplotlib, Seaborn, Plotly)  
 • Python Data Scrapping (BeautifulSoup, Scrapy)  
-• R  
 • SAS  
 • SQL  
 • Tableau  
