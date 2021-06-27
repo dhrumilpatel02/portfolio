@@ -28,5 +28,6 @@ Data Science Skills:
 Let's see how we can collaborate:    
 
 • Email ID - dhrumilpatel02@gmail.com  
-• GitHub - github.com/dhrumilpatel02  
+• Medium - medium.com/@dhrumilpatel02  
+• Calendly - calendly.com/dhrumilpatel02  
 • Website - dhrumilpatel.me    
