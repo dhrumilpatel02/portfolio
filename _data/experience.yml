@@ -1,8 +1,20 @@
 - layout: left
+  company: BMO Financial Group
+  link: 
+  job_title: Data Analyst
+  dates: August 2021 - Present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Merging data from various sources, managing the code run on servers, updating the database periodically.  
+    • Developing machine learning models for model score production and building dashboards visualizing insights.  
+    • Presenting reports to the stakeholders and recommending steps needed to be taken to lower the attrition score.  
+
+- layout: left
   company: Cornershop by Uber
   link: 
-  job_title: Data and Content Specialist
-  dates: November 2020 - Present
+  job_title: Catalog Analyst
+  dates: November 2020 - August 2021
   quote: >
    
   description: | # this will include new lines to allow paragraphs
@@ -21,20 +33,6 @@
     • Developed Data pipelines through Twitter and other APIs to prepare a database for analysis.  
     • Organized Data Acquisition from RSS Newsfeeds to evaluate the ongoing market sentiments.  
     • Built a Sentiment Analysis Web App using NLP techniques to measure the S&P500 Companies' stock prices.  
-
-
-- layout: left
-  company: EPICenter UWindsor
-  link: 
-  job_title: Entrepreneur in Residence
-  dates: May 2020 - August 2020
-  quote: >
-   
-  description: | # this will include new lines to allow paragraphs
-    • Built a software application to automate responses to inquiries from students for educational institutions.  
-    • Selected for an intensive startup accelerator program by RBC to build on the idea within the EdTech space.  
-    • Received coaching on design thinking, analytics on market research, and how to build a successful business model.  
-
 
 - layout: left
   company: NRI Startup India
