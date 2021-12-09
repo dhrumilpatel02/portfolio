@@ -1,11 +1,11 @@
 - layout: top-middle
-  name: Forum Classification and Recommendation Engine
-  link: 
-  github: 
+  name: EPL VAR Analysis
+  link: https://github.com/dhrumilpatel02/EPL-VAR-Analysis
+  github: dhrumilpatel02/epl-var-analysis
   quote: >
-    https://bit.ly/stem-away-classifier-bert
+    Analyzing Video Assistant Referee (VAR) decisions in the English Premier League.
   description: | # this will include new lines to allow paragraphs
-    At STEM-Away I voluntarily managed a team of 15, assigning tasks to the program manager and technical lead, built and developed a classification model using various natural language processing techniques like Google’s BERT technique from a discourse forum.  
+    Reviewing the controversial implementation of Video Assistant Referees in English football (EPL) helping understand the impact of the system on the game, its outcomes, and its future in football.  
 
 - layout: top-middle
   name: Diamond Price Prediction
