@@ -1,6 +1,6 @@
 # My Portfolio
 
-I'm an experienced Data Science and Analytics Professional and have worked with startups building analytics dashboards to help investors, and clients invest in the right ventures, building and presenting reports to the stakeholders. I've also briefly worked in the recruitment industry analyzing the trends in the US recruitment space. Currently, I am working to improve the overall content quality of the Catalog at Cornershop with Data Science and Analytics tools and techniques.    
+I'm an experienced Data Science and Analytics Professional and have worked with startups building analytics dashboards to help investors, and clients invest in the right ventures, building and presenting reports to the stakeholders, maintaining the data quality. I've also briefly worked in the recruitment industry analyzing the trends in the US recruitment space. Currently, I am working to maximize the success rate of new products as well as minimize its risk at BMO Financial Group.    
 
 A few things I've built:    
 
@@ -11,18 +11,13 @@ GitHub: bit.ly/diamond-price-prediction, Web App: diamond-price-prediction.herok
 GitHub: bit.ly/cannabis-quality.  
 • Footballer's Attribute Prediction - Predicting the attributes a footballer needs to excel in a position.  
 GitHub: bit.ly/footballer-attribute-prediction    
+• EPL VAR Analysis: Analyzing Video Assistant Referee (VAR) decisions in the English Premier League. 
+GitHub: bit.ly/epl-var-analysis   
 
 
 Data Science Skills:    
 
-• Python Data Analysis (Pandas, NumPy)  
-• Python Machine Learning/Deep Learning (SciKit-Learn, NLTK, TensorFlow)  
-• Python Data Visualization (Matplotlib, Seaborn, Plotly)  
-• Python Data Scrapping (BeautifulSoup, Scrapy)  
-• SAS  
-• SQL  
-• Tableau  
-• PowerBI    
+• SQL, Python (pandas, scikit-learn, beautiful soup, seaborn, matplotlib, spacy, scrapy), Tableau, Looker, SAS, PowerBI, Google Analytics.    
 
 
 Let's see how we can collaborate:    
