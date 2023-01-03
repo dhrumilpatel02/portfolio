@@ -1,14 +1,38 @@
 - layout: left
   company: BMO Financial Group
   link: 
-  job_title: Data Analyst
-  dates: August 2021 - Present
+  job_title: Manager, Data and Analytics, Strategic Initiatives
+  dates: December 2022 - Present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Lead strategic opportunities within Data Analytics, Data Science, Machine Learning driving digital transformation.  
+    • Drive efficiencies with Ideation & Incubation, creating impactful outcomes through Data & Analytics capabilities.  
+    • Shape a digitally enabled, future ready bank, along with supporting BMO's Mergers & Acquisitions programs as well.  
+    
+- layout: left
+  company: BMO Financial Group
+  link: 
+  job_title: Senior Data Analyst
+  dates: March 2022 - December 2022
   quote: >
    
   description: | # this will include new lines to allow paragraphs
     • Building and developing dashboards for bankers’ scorecard, finding insights that drive employee incentives.  
     • Merging data from various sources, managing the code run on servers, updating the database periodically.  
     • Presenting reports to the stakeholders and recommending steps to recalibrate performance evaluations.  
+    
+- layout: left
+  company: BMO Financial Group
+  link: 
+  job_title: Data Analyst
+  dates: August 2021 - February 2022
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Developing machine learning models for model score prediction and building dashboards visualizing insights.  
+    • Maintaining and scheduling model run on cloud servers.  
+    • Presenting reports to the stakeholders and recommending steps needed to be taken to lower the attrition score.  
 
 - layout: left
   company: Cornershop by Uber
