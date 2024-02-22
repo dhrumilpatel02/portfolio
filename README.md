@@ -8,17 +8,13 @@ I'm an experienced Data Science and Analytics Professional and have worked with 
 💼 A few things I've built:
 
 • EPL VAR Analysis: Analyzing Video Assistant Referee (VAR) decisions in the English Premier League.
-GitHub: bit.ly/epl-var-analysis
-
+GitHub: bit.ly/epl-var-analysis <br/>
 • Footballer's Attribute Prediction - Predicting the attributes a footballer needs to excel in a position.
-GitHub: bit.ly/footballer-attribute-prediction
-
+GitHub: bit.ly/footballer-attribute-prediction <br/>
 • Diamond Price Prediction - Predicting diamond prices using basic measurement metrics.
-GitHub: bit.ly/diamond-price-prediction, Web App: diamond-price-prediction.herokuapp.com, Medium Article: bit.ly/diamond-price-prediction
-
+GitHub: bit.ly/diamond-price-prediction, Web App: diamond-price-prediction.herokuapp.com, Medium Article: bit.ly/diamond-price-prediction <br/>
 • Cannabis Quality Prediction - Predicting the quality of a cannabis plant, based on its botanical measurements.
-GitHub: bit.ly/cannabis-quality
-
+GitHub: bit.ly/cannabis-quality <br/>
 • STEM-Away: As a Machine Learning Project Lead, I managed a team of 15 who built a Forum Classification and Recommendation Engine, assigned tasks to program managers and technical leads.
 Scraping Code: https://bit.ly/stem-away-scraping, BERT Code: https://bit.ly/stem-away-classifier-bert
 
@@ -30,12 +26,8 @@ SQL, Python, Tableau, Spotfire, Looker, SAS, PowerBI, Google Analytics.
 
 🤝 Let's see how we can collaborate:
 
-• Topmate - topmate.io/dhrumilpatel02
-
-• Email ID - dhrumilpatel02@gmail.com
-
-• GitHub - github.com/dhrumilpatel02
-
-• Medium - medium.com/@dhrumilpatel02
-
+• Topmate - topmate.io/dhrumilpatel02 <br/>
+• Email ID - dhrumilpatel02@gmail.com <br/>
+• GitHub - github.com/dhrumilpatel02 <br/>
+• Medium - medium.com/@dhrumilpatel02 <br/>
 • Website - dhrumilpatel.me
