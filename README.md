@@ -1,33 +1,18 @@
-# My Portfolio
+👦🏻 About me:
+Results-driven data and analytics leader with a track record of delivering enterprise-wide transformation, leveraging advanced analytics, machine learning, and cloud technologies. Expertise in architecting scalable data solutions, automating reporting workflows, and driving strategic insights to enhance operational efficiencies and business growth.
 
-👦🏻 A few words about myself:
-
-I'm an experienced Data Science and Analytics Professional and have worked with startups building analytics dashboards to help investors, and clients invest in the right ventures, building and presenting reports to the stakeholders, maintaining the data quality. I've briefly worked on developing bankers’ scorecard dashboards, which eventually drives employee incentives. Currently, I am helping out with strategizing cloud and machine learning projects to enable Enterprise Level Digital Transformation at BMO.
-
-
-💼 A few things I've built:
-
+💼 Things I've built:
 • EPL VAR Analysis: Analyzing Video Assistant Referee (VAR) decisions in the English Premier League.
-GitHub: bit.ly/epl-var-analysis <br/>
+GitHub: bit.ly/epl-var-analysis
 • Footballer's Attribute Prediction - Predicting the attributes a footballer needs to excel in a position.
-GitHub: bit.ly/footballer-attribute-prediction <br/>
+GitHub: bit.ly/footballer-attribute-prediction
 • Diamond Price Prediction - Predicting diamond prices using basic measurement metrics.
-GitHub: bit.ly/diamond-price-prediction, Web App: diamond-price-prediction.herokuapp.com, Medium Article: bit.ly/diamond-price-prediction <br/>
-• Cannabis Quality Prediction - Predicting the quality of a cannabis plant, based on its botanical measurements.
-GitHub: bit.ly/cannabis-quality <br/>
-• STEM-Away: As a Machine Learning Project Lead, I managed a team of 15 who built a Forum Classification and Recommendation Engine, assigned tasks to program managers and technical leads.
-Scraping Code: https://bit.ly/stem-away-scraping, BERT Code: https://bit.ly/stem-away-classifier-bert
+GitHub: bit.ly/diamond-price-prediction, Medium Article: bit.ly/diamond-price-prediction
 
-
-🖥️ A few tools I've worked on:
-
-SQL, Python, Tableau, Spotfire, Looker, SAS, PowerBI, Google Analytics.
-
+🖥️ Tools I've worked on:
+SQL, Python, PowerBI, Tableau, SAS, Spotfire, Looker, AWS, Google Analytics.
 
 🤝 Let's see how we can collaborate:
-
-• Topmate - topmate.io/dhrumilpatel02 <br/>
-• Email ID - dhrumilpatel02@gmail.com <br/>
-• GitHub - github.com/dhrumilpatel02 <br/>
-• Medium - medium.com/@dhrumilpatel02 <br/>
-• Website - dhrumilpatel.me
+• Email ID - dhrumilpatel02@gmail.com
+• GitHub - github.com/dhrumilpatel02
+• Medium - medium.com/@dhrumilpatel02
