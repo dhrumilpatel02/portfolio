@@ -1,7 +1,7 @@
 👦🏻 About me:
 Results-driven data and analytics leader with a track record of delivering enterprise-wide transformation, leveraging advanced analytics, machine learning, and cloud technologies. Expertise in architecting scalable data solutions, automating reporting workflows, and driving strategic insights to enhance operational efficiencies and business growth.
   
-💼 Things I've built:
+💼 Things I've built:  
 • EPL VAR Analysis: Analyzing Video Assistant Referee (VAR) decisions in the English Premier League.  
 GitHub: bit.ly/epl-var-analysis  
 • Footballer's Attribute Prediction - Predicting the attributes a footballer needs to excel in a position.  
