@@ -12,7 +12,7 @@ GitHub: bit.ly/diamond-price-prediction, Medium Article: bit.ly/diamond-price-pr
 🖥️ Tools I've worked on:
 SQL, Python, PowerBI, Tableau, SAS, Spotfire, Looker, AWS, Google Analytics.
   
-🤝 Let's see how we can collaborate:
-• Email ID - dhrumilpatel02@gmail.com
-• GitHub - github.com/dhrumilpatel02
+🤝 Let's see how we can collaborate:  
+• Email ID - dhrumilpatel02@gmail.com  
+• GitHub - github.com/dhrumilpatel02  
 • Medium - medium.com/@dhrumilpatel02
