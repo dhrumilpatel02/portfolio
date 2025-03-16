@@ -1,5 +1,5 @@
 - layout: left
-  company: BMO Financial Group
+  company: BMO
   link: 
   job_title: Manager, Data and Analytics, Strategic Initiatives
   dates: December 2022 - Present
@@ -11,7 +11,7 @@
     • Led the migration of 2.2+ petabytes of Bank of the West data to BMO AWS S3, through AWS Redshift, improving scalability and analytics performance across key business units.  
     
 - layout: left
-  company: BMO Financial Group
+  company: BMO
   link: 
   job_title: Senior Data Analyst
   dates: March 2022 - December 2022
@@ -23,7 +23,7 @@
     • Streamlined data engineering pipeline reducing 50% manual efforts to fetch data sources required to build insights for executive level dashboard reporting.  
     
 - layout: left
-  company: BMO Financial Group
+  company: BMO
   link: 
   job_title: Data Analyst
   dates: August 2021 - February 2022
