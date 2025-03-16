@@ -5,7 +5,7 @@
   quote: >
     Analyzing Video Assistant Referee (VAR) decisions in the English Premier League.
   description: | # this will include new lines to allow paragraphs
-    Reviewing the controversial implementation of Video Assistant Referees in English football (EPL) helping understand the impact of the system on the game, its outcomes, and its future in football.  
+    Built an AI-powered analytics model to assess referee decisions in the English Premier League, improving fairness evaluation metrics.  
 
 - layout: top-middle
   name: Footballer's Attribute Prediction
@@ -14,7 +14,7 @@
   quote: >
     Predicting the attributes a footballer needs in order to excel in a position..
   description: | # this will include new lines to allow paragraphs
-    I tried to predict what are the attributes that are significant for a footballer to excel in their position, I used various algorithm to predict and evaluate the metrics.
+    Developed a machine learning model to identify key player attributes for various football positions, enhancing scouting and talent acquisition.
 
 - layout: top-middle
   name: Diamond Price Prediction
@@ -23,14 +23,4 @@
   quote: >
     Predicting diamond prices using basic diamond measurement metrics.
   description: | # this will include new lines to allow paragraphs
-    A Web App for a Jewelry company, where their customers can look up for a predicted price for their desired diamond, used a regression model to predict the price and heroku to host the web app.
-
-- layout: top-middle
-  name: Cannabis Quality Prediction
-  link: github.com/dhrumilpatel02/cannabis-quality
-  github: dhrumilpatel02/cannabis-quality
-  quote: >
-    Predicting the quality of a cannabis plant, based on its botanical measurements.
-  description: | # this will include new lines to allow paragraphs
-    As the plant classification quality is required to be “best” in order to be properly processed for medical use, I used logistic regression to determine the quality of the plants.
-
+    Created a predictive pricing model for diamonds using regression analysis, improving pricing transparency for buyers and sellers.
