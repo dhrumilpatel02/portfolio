@@ -18,7 +18,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Results-driven data and analytics leader with a track record of delivering enterprise-wide transformation, leveraging advanced analytics, machine learning, and cloud technologies. Expertise in architecting scalable data solutions, automating reporting workflows, and driving strategic insights to enhance operational efficiencies and business growt.
 
-  Skills: <mark>SQL</mark>, <mark>Python</mark>, <mark>PowerBI</mark>, <mark>Tableau/mark>, <mark>SAS</mark>, <mark>Google Analytics</mark>, <mark>Looker</mark>
+  Skills: <mark>SQL</mark>, <mark>Python</mark>, <mark>PowerBI</mark>, <mark>Tableau/mark>, <mark>SAS</mark>, <mark>Google Analytics</mark>, <mark>Looker</mark>.
 
 # Experience Section
 experience_title: Experience
