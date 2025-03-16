@@ -6,9 +6,9 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Lead strategic opportunities within Data Analytics, Data Science, Machine Learning driving digital transformation.  
-    • Drive efficiencies with Ideation & Incubation, creating impactful outcomes through Data & Analytics capabilities.  
-    • Shape a digitally enabled, future ready bank, along with supporting BMO's Mergers & Acquisitions programs as well.  
+    • Strategic lead in defining transformative enterprise-wide data strategy initiatives, defining and implementing machine learning and cloud solutions enhancing decision-making.   
+    • Delivered $16MM in cost savings by optimizing data-driven workflows, automating reporting, and streamlining cloud infrastructure.  
+    • Led the migration of 2.2+ petabytes of Bank of the West data to BMO AWS S3, through AWS Redshift, improving scalability and analytics performance across key business units.  
     
 - layout: left
   company: BMO Financial Group
@@ -18,9 +18,9 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Building and developing dashboards for bankers’ scorecard, finding insights that drive employee incentives.  
-    • Merging data from various sources, managing the code run on servers, updating the database periodically.  
-    • Presenting reports to the stakeholders and recommending steps to recalibrate performance evaluations.  
+    • Designed and deployed 15+ Power BI dashboards for frontline scorecards, enabling real-time performance tracking and optimization of employee incentive structures.  
+    • Partnered with Senior Leadership to refine and recalibrate evaluation frameworks, leveraging data-driven insights to enhance workforce productivitu.  
+    • Streamlined data engineering pipeline reducing 50% manual efforts to fetch data sources required to build insights for executive level dashboard reporting.  
     
 - layout: left
   company: BMO Financial Group
@@ -30,9 +30,9 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Developing machine learning models for model score prediction and building dashboards visualizing insights.  
-    • Maintaining and scheduling model run on cloud servers.  
-    • Presenting reports to the stakeholders and recommending steps needed to be taken to lower the attrition score.  
+    • Developed and implemented a customer 360 churn and attrition model, integrating 50+ data sources to provide predictive insights for retention strategies.  
+    • Established data governance frameworks, enhancing SQL database integrity and Power BI reporting accuracy.  
+    • Delivered executive-level recommendations that directly contributed to reducing customer churn and increasing lifetime value.  
 
 - layout: left
   company: Cornershop by Uber
@@ -42,9 +42,9 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Consolidating databases, supporting new integration projects, data feeds, building reports, and dashboards.  
-    • Generating insights by analyzing trends, helping curb deviations to support data-driven strategic decisions.  
-    • Helped increasing the Found Rate from 82% to 87%, achieved a stable 2% Markup over time improving the Catalog.  
+    • Engineered a data-driven catalog optimization framework, improving shopper product find rates by 5% and stabilizing price markups to drive a 2% revenue increase.  
+    • Led the transition from Tableau to Looker, enhancing self-serve analytics capabilities.  
+    • Analyzed customer demographic and choice trends to help increase customer universe and share of wallet.  
 
 - layout: left
   company: Learners.ai
@@ -54,9 +54,9 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Developed Data pipelines through Twitter and other APIs to prepare a database for analysis.  
-    • Organized Data Acquisition from RSS Newsfeeds to evaluate the ongoing market sentiments.  
-    • Built a Sentiment Analysis Web App using NLP techniques to measure the S&P500 Companies' stock prices.  
+    • Developed end to end Data Acquisition pipeline fetching RSS Newsfeeds, evaluating stock market sentiments.  
+    • Built database schematics connecting Twitter API for channel analysis providing a holistic social media view.  
+    • Automated reports fetching insights from Sentiment Analysis Web App feeding to marketing efforts.  
 
 - layout: left
   company: NRI Startup India
@@ -66,9 +66,9 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Collected data and maintained a database using SQL for portfolio companies.  
-    • Generated reports and dashboards using Python, Tableau and PowerBI tracking the Return on Investments.  
-    • Presented findings to the clients and stakeholders narrating a story that solved business problems improving ROI by 20%.
+    • Implemented a data-driven investment strategy, analyzing stock trends and optimizing portfolio allocation.  
+    • Developed executive-level reporting to track key financial metrics, improving investment decision-making.  
+    • Delivered insights resulted in 20% ROI boost through targeted optimizations on recommended ventures.
 
 - layout: left
   company: Rang Technologies
@@ -78,6 +78,6 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Built dashboards on the recommendation engine results for resumes, technical screenings, for recruited data scientists.  
-    • Collaborated with the manager in an analysis of the recruitment statistics.  
-    • Based on the analysis performed on the collected data, an increased placement rate of 60% was achieved.
+    • Analyzed recruitment statistics to track, identify the inefficiencies, and spot the problem areas.  
+    • Built dashboards depicting the recommendation engine results for resumes of recruited data scientists.  
+    • Delivered an increased candidate placement rate of 60%, doubling the YOY numbers.
