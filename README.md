@@ -3,11 +3,11 @@ Results-driven data and analytics leader with a track record of delivering enter
   
 💼 Things I've built:
 • EPL VAR Analysis: Analyzing Video Assistant Referee (VAR) decisions in the English Premier League.  
-GitHub: bit.ly/epl-var-analysis
+GitHub: bit.ly/epl-var-analysis  
 • Footballer's Attribute Prediction - Predicting the attributes a footballer needs to excel in a position.  
-GitHub: bit.ly/footballer-attribute-prediction
+GitHub: bit.ly/footballer-attribute-prediction  
 • Diamond Price Prediction - Predicting diamond prices using basic measurement metrics.  
-GitHub: bit.ly/diamond-price-prediction, Medium Article: bit.ly/diamond-price-prediction
+GitHub: bit.ly/diamond-price-prediction, Medium Article: bit.ly/diamond-price-prediction  
   
 🖥️ Tools I've worked on:
 SQL, Python, PowerBI, Tableau, SAS, Spotfire, Looker, AWS, Google Analytics.
