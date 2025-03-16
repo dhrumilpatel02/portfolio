@@ -1,4 +1,4 @@
-👦🏻 About me:
+👦🏻 About me:  
 Results-driven data and analytics leader with a track record of delivering enterprise-wide transformation, leveraging advanced analytics, machine learning, and cloud technologies. Expertise in architecting scalable data solutions, automating reporting workflows, and driving strategic insights to enhance operational efficiencies and business growth.
   
 💼 Things I've built:  
@@ -9,7 +9,7 @@ GitHub: bit.ly/footballer-attribute-prediction
 • Diamond Price Prediction - Predicting diamond prices using basic measurement metrics.  
 GitHub: bit.ly/diamond-price-prediction, Medium Article: bit.ly/diamond-price-prediction  
   
-🖥️ Tools I've worked on:
+🖥️ Tools I've worked on:  
 SQL, Python, PowerBI, Tableau, SAS, Spotfire, Looker, AWS, Google Analytics.
   
 🤝 Let's see how we can collaborate:  
