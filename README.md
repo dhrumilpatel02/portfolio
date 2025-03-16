@@ -10,7 +10,7 @@ GitHub: bit.ly/footballer-attribute-prediction
 GitHub: bit.ly/diamond-price-prediction, Medium Article: bit.ly/diamond-price-prediction  
   
 🖥️ Tools I've worked on:  
-SQL, Python, PowerBI, Tableau, SAS, Spotfire, Looker, AWS, Google Analytics.
+SQL, Python, PowerBI, Tableau, SAS, Looker, AWS, Google Analytics.
   
 🤝 Let's see how we can collaborate:  
 • Email ID - dhrumilpatel02@gmail.com  
